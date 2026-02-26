@@ -28,5 +28,25 @@
     "url": "./Challenges/003-blog-preview-card/index.html",
     "difficulty": "newbie",
     "image": "https://placehold.co/400"
+  },
+  {
+    "Id": 4,
+    "ChallengeCode": "004-Social-links-profile",
+    "Name": "Social link profile",
+    "Tags": ["CSS", "HTML"],
+    "From": "Front-end mentor",
+    "url": "./Challenges/004-Social-links-profile/index.html",
+    "difficulty": "newbie",
+    "image": "https://placehold.co/400"
+  },
+   {
+    "Id": 5,
+    "ChallengeCode": "005-Result-summary-component",
+    "Name": "Result summary component",
+    "Tags": ["CSS", "HTML"],
+    "From": "Front-end mentor",
+    "url": "./Challenges/004-Social-links-profile/index.html",
+    "difficulty": "newbie",
+    "image": "https://placehold.co/400"
   }
 ]

@@ -68,10 +68,9 @@
             <img src="${ch.image}" alt="Preview for ${ch.Name}">
             <div class="card-body">
               <h3>${ch.Name}</h3>
-              <div class="tags">${ch.Tags.map(
-                (t) => `<span class="tag">${t}</span>`
-              ).join("")}</div>
+              <div class="tags">${ch.Tags.map((t) => `<span class="tag">${t}</span>`).join("")}</div>
               <div><strong>Source:</strong> ${ch.From}</div>
+              <div><strong>difficulty:</strong> ${ch.difficulty}</div>
               <a href="${ch.url}" target="_blank">View Challenge</a>
             </div>
           `;
